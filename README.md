@@ -1,2 +1,5 @@
 # pc.adviser.dev-api
-Dev api for the PC Adviser App
+
+JSON Generators
+
+- list-opportunities --> [generator](https://next.json-generator.com/4JJXIq4j8)
